@@ -13,7 +13,7 @@ public class Contador {
 		int parametroDois = sc.nextInt();
 		
 		try {
-			utilContar.contar(parametroUm, parametroDois);
+			UtilContar.contar(parametroUm, parametroDois);
 		
 		}catch (ParametrosInvalidosException e) {
 			System.out.println(e.getMessage());

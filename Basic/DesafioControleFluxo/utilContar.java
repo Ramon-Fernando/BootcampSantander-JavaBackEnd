@@ -1,8 +1,8 @@
 package Basic.DesafioControleFluxo;
 
-public class utilContar {
+public class UtilContar {
 
-	public utilContar() {
+	public UtilContar() {
 	}
 	
 	public static void contar(int parametroUm, int parametroDois ) throws ParametrosInvalidosException {
