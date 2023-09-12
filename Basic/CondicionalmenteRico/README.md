@@ -1,6 +1,6 @@
 # 💻 Bootcamp Santander - Trilha Java Básico
 
-## 📝 Equilibrando o Saldo - Desafio
+## 📝 Condicionalmente Rico - Desafio
 
 
 ### Descrição
